@@ -1,4 +1,6 @@
 ## [View Live Site](https://e-commerce-site-yogesh.netlify.app/)
+![ecommerce](https://user-images.githubusercontent.com/87793885/146805199-2b9a5aa4-98cd-4dd8-b973-934148436e8c.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
