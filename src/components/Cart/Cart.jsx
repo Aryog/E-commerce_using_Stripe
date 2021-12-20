@@ -30,7 +30,7 @@ You have no items in your shopping cart,
                 <Typography variant='h4'>Subtotal:{cart.subtotal.formatted_with_symbol}</Typography>
                 <div>
                     <Button className={classes.emptyButton} onClick={()=>handleEmptyCart()} size="large" type="Button" variant="contained" color = "secondary">Empty Cart</Button>
-                    <Button className={classes.checkout} size="large" type="Button" variant="contained" color = "primary">Check Out</Button>
+                    <Button  component={Link} to='/checkout' className={classes.checkout} size="large" type="Button" variant="contained" color = "primary">Check Out</Button>
                 </div>
                 
             </div>
